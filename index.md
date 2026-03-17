@@ -1,9 +1,9 @@
 ---
 layout: home
-title: 笔者的世界
+title: 彼之世界
 ---
 
-# 欢迎来到笔者的世界
+# 欢迎来到彼之世界
 
 这是一个托管在 GitHub Pages 上的个人网站。
 
