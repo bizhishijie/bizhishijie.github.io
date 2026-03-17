@@ -1,0 +1,25 @@
+title: 笔者的世界
+description: A personal GitHub Pages site
+url: https://bizhishijie.github.io
+author: bizhishijie
+future: true
+
+theme: minima
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+navigation:
+  - text: Home
+    url: /
+  - text: 2048
+    url: /2048/
+  - text: Watermelon
+    url: /watermelon/
+  - text: Grape
+    url: /grape/
+  - text: LifeRestart
+    url: /lifeRestart/
